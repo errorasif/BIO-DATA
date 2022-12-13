@@ -1,0 +1,57 @@
+GIT 
+body{
+	max-width:50%;
+	margin: auto;
+	
+
+}
+qualifi::selection {
+    background-color: orange;
+}
+.header{
+	display:flex;
+	align-items:center;
+}
+.face{
+	width:90px;
+	height:70px;
+	
+	border-radius:90%;
+	margin-top:20px;
+}
+.title{
+	flex:1;
+	margin-left:20px;
+	
+}
+.name{
+	color:grey;
+}
+.coral{
+	color:coral;
+}
+.qualifi{
+	letter-spacing:1px;
+	color:#333;
+}
+
+.hrline{
+	border:1px solid coral;
+}
+.hedang123{
+	min-width:300px;
+	display:block;
+}
+.text1{
+	font-size:25px;
+}
+.marginfix{
+	margin-top:20px;
+}
+.thank{
+	text-align:end;
+	font-size:30px;
+	color:blue;
+}
+	 
+	 
